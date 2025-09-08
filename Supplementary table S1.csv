@@ -1,0 +1,59 @@
+Protein Name,Accession No.,FC,log2(FC),raw.pval
+Beta-lactam-inducible penicillin-binding protein,P07944,11.855,3.5674,2.83E-05
+Global transcriptional regulator Spx,P60380,0.49094,-1.0264,0.00034124
+Nuclease SbcCD subunit C,A7X203,0.47512,-1.0736,0.00075318
+ClpXP adapter protein SpxH,Q5HH83,2.4492,1.2923,0.0023851
+ClpXP adapter protein SpxH,Q6GI84,2.4492,1.2923,0.0023851
+ClpXP adapter protein SpxH,A7X0M6,2.4492,1.2923,0.0023851
+ClpXP adapter protein SpxH,P0C5Z9,2.4492,1.2923,0.0023851
+Lactonase drp35,Q8NUH4,0.44374,-1.1722,0.0031378
+Lactonase drp35,Q2YZA4,0.44374,-1.1722,0.0031378
+Lactonase drp35,Q6GDB6,0.44374,-1.1722,0.0031378
+Lactonase drp35,Q9S0S3,0.44374,-1.1722,0.0031378
+Lactonase drp35,Q7A338,0.44374,-1.1722,0.0031378
+Ribonuclease HIII,Q8NX59,0.11744,-3.09,0.0033908
+Ribonuclease HIII,A5IS26,0.11744,-3.09,0.0033908
+Ribonuclease HIII,Q6GHU5,0.11744,-3.09,0.0033908
+Ribonuclease HIII,Q6GA74,0.11744,-3.09,0.0033908
+Heat-inducible transcription repressor HrcA,Q2YT45,2.1228,1.086,0.0058994
+Heat-inducible transcription repressor HrcA,A7X2Y4,2.1228,1.086,0.0058994
+Heat-inducible transcription repressor HrcA,A8Z4C1,2.1228,1.086,0.0058994
+Heat-inducible transcription repressor HrcA,Q6GGB8,2.1228,1.086,0.0058994
+Methicillin resistance regulatory protein MecI,P68262,0.31651,-1.6597,0.014443
+Methicillin resistance regulatory protein MecI,Q932L5,0.31651,-1.6597,0.014443
+Phosphoribosylformylglycinamidine synthase subunit,Q6GI16,0.20454,-2.2896,0.015136
+"Fructose-1,6-bisphosphatase class 3",A5IVU3,0.4871,-1.0377,0.015266
+"Fructose-1,6-bisphosphatase class 3",Q8NUT7,0.4871,-1.0377,0.015266
+"Fructose-1,6-bisphosphatase class 3",A6QK04,0.4871,-1.0377,0.015266
+Holliday junction resolvase RecU,Q8GN53,0.49606,-1.0114,0.015813
+Holliday junction resolvase RecU,A6U1R8,0.49606,-1.0114,0.015813
+Holliday junction resolvase RecU,Q2YY57,0.49606,-1.0114,0.015813
+Phosphoribosylformylglycinamidine synthase subunit PurQ,Q6GAE5,0.27831,-1.8452,0.015937
+Phosphoribosylformylglycinamidine synthase subunit PurQ,P99166,0.27831,-1.8452,0.015937
+Phosphoribosylformylglycinamidine synthase subunit PurQ,Q5HH16,0.27831,-1.8452,0.015937
+Phosphoribosylformylglycinamidine synthase subunit PurQ,Q2YX55,0.27831,-1.8452,0.015937
+Methicillin resistance mecR1 protein,P0A0B0,2.2379,1.1621,0.017133
+Large ribosomal subunit protein bL35,A5ITK4,0.33868,-1.562,0.018066
+Alkaline shock protein 23,P0A0P7,0.46475,-1.1055,0.01964
+Aspartate 1-decarboxylase,Q2YWG1,0.28936,-1.789,0.021897
+Aspartate 1-decarboxylase,Q6G679,0.28936,-1.789,0.021897
+Aspartate 1-decarboxylase,P65664,0.28936,-1.789,0.021897
+Protein GrpE,Q2FXZ1,0.41333,-1.2746,0.024197
+Protein GrpE,Q2YT46,0.41333,-1.2746,0.024197
+Protein GrpE,P99086,0.41333,-1.2746,0.024197
+Protein GrpE,Q5HFH9,0.41333,-1.2746,0.024197
+UPF0358 protein SAB0977,Q2YX63,0.15031,-2.734,0.02619
+UPF0358 protein SAS1047,Q6GAA2,0.15031,-2.734,0.02619
+Phosphoglycerate kinase,P68820,0.45671,-1.1307,0.02629
+Phosphoglycerate kinase,Q2YSF1,0.45671,-1.1307,0.02629
+Glutamine synthetase,P0A040,0.46118,-1.1166,0.035574
+Glutamine synthetase,P99095,0.46118,-1.1166,0.035574
+Glutamine synthetase,Q6GHC6,0.46118,-1.1166,0.035574
+Carbamate kinase 1,Q2FHR7,0.36122,-1.4691,0.041959
+Carbamate kinase 1,Q6GHR6,0.36122,-1.4691,0.041959
+Carbamate kinase 1,Q2YXF2,0.36122,-1.4691,0.041959
+Ornithine carbamoyltransferase,Q6GHR7,0.4734,-1.0789,0.046341
+Ornithine carbamoyltransferase,Q8NX44,0.4734,-1.0789,0.046341
+Amidophosphoribosyltransferase,P99164,0.43616,-1.1971,0.046991
+Amidophosphoribosyltransferase,Q6GI14,0.46493,-1.1049,0.048884
+Amidophosphoribosyltransferase,Q5HH14,0.46493,-1.1049,0.048884
